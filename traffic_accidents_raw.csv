@@ -1,0 +1,501 @@
+Accident_ID,Date,Time,City,State,Accident_Severity,Weather_Condition,Road_Condition,Vehicle_Type,Vehicles_Involved,Injuries,Fatalities,Accident_Cause
+TA1001,1/26/2023,9:23,Mumbai,Maharashtra,Minor,Cloudy,Dry,Van,1,6,0,Speeding
+TA1002,4/6/2023,7:27,Hyderabad,Telangana,Minor,Overcast,Dry,Truck,2,8,0,Overtaking
+TA1003,4/4/2024,20:06,Ahmedabad,Gujarat,Minor,Clear,Wet,Van,4,5,0,Poor Road Condition
+TA1004,8/9/2023,11:29,Delhi,Delhi,Minor,Fog,Dry,Auto Rickshaw,3,4,0,Drunk Driving
+TA1005,4/15/2024,18:18,Bengaluru,Karnataka,Minor,Fog,Dry,Truck,3,5,0,Signal Violation
+TA1006,12/22/2024,2:22,Kolkata,West Bengal,Minor,Cloudy,Poor,Car,2,1,0,Overtaking
+TA1007,4/9/2024,21:41,Jaipur,Rajasthan,Severe,Cloudy,Poor,Auto Rickshaw,2,4,0,Weather
+TA1008,9/15/2024,21:40,Chennai,Tamil Nadu,Minor,Cloudy,Wet,Bus,4,4,0,Weather
+TA1009,8/13/2023,23:22,Patna,Bihar,Minor,Clear,Wet,SUV,1,5,0,Overtaking
+TA1010,3/9/2023,7:12,Jaipur,Rajasthan,Severe,Overcast,Poor,Motorcycle,4,6,0,Weather
+TA1011,5/27/2023,9:02,Visakhapatnam,Andhra Pradesh,Minor,Overcast,Under Construction,Auto Rickshaw,4,6,0,Poor Road Condition
+TA1012,5/22/2023,17:23,Ahmedabad,Gujarat,Moderate,Clear,Dry,Motorcycle,2,6,0,Signal Violation
+TA1013,1/30/2024,13:01,Chennai,Tamil Nadu,Moderate,Fog,Under Construction,Auto Rickshaw,1,1,0,Weather
+TA1014,10/1/2023,21:52,Patna,Bihar,Minor,Rain,Potholes,Motorcycle,4,0,0,Weather
+TA1015,5/27/2024,6:05,Jaipur,Rajasthan,Moderate,Clear,Poor,SUV,2,2,0,Poor Road Condition
+TA1016,7/6/2024,18:06,Pune,Maharashtra,Severe,Overcast,Poor,Bus,1,1,0,Poor Road Condition
+TA1017,9/3/2023,1:58,Lucknow,Uttar Pradesh,Minor,Overcast,Dry,Car,4,1,0,Drunk Driving
+TA1018,5/9/2023,4:22,Patna,Bihar,Moderate,Overcast,Wet,Auto Rickshaw,4,3,0,Signal Violation
+TA1019,11/16/2023,13:37,Kolkata,West Bengal,Fatal,Rain,Potholes,Truck,4,1,0,Distracted Driving
+TA1020,12/13/2023,0:43,Chennai,Tamil Nadu,Moderate,Cloudy,Under Construction,Motorcycle,1,1,0,Weather
+TA1021,8/23/2023,2:18,Bengaluru,Karnataka,Severe,Rain,Dry,Truck,2,4,0,Weather
+TA1022,8/8/2023,18:24,Coimbatore,Tamil Nadu,Minor,Overcast,Under Construction,Bus,2,7,0,Drunk Driving
+TA1023,7/14/2023,3:13,Bhopal,Madhya Pradesh,Minor,Fog,Poor,Bus,4,7,0,Drunk Driving
+TA1024,11/20/2024,22:18,Bengaluru,Karnataka,Fatal,Clear,Dry,Bus,3,1,0,Distracted Driving
+TA1025,7/3/2024,15:18,Kolkata,West Bengal,Minor,Cloudy,Poor,Bus,2,1,0,Overtaking
+TA1026,4/11/2023,1:43,Patna,Bihar,Moderate,Overcast,Dry,Car,2,2,0,Overtaking
+TA1027,5/7/2024,7:17,Coimbatore,Tamil Nadu,Severe,Clear,Wet,Bus,1,6,0,Poor Road Condition
+TA1028,10/20/2023,14:26,Visakhapatnam,Andhra Pradesh,Moderate,Overcast,Potholes,Motorcycle,2,4,0,Distracted Driving
+TA1029,8/16/2024,18:30,Bengaluru,Karnataka,Minor,Rain,Dry,Car,4,8,0,Drunk Driving
+TA1030,6/11/2023,1:56,Kochi,Kerala,Fatal,Clear,Wet,Car,1,3,1,Speeding
+TA1031,9/10/2023,19:45,Bhubaneswar,Odisha,Moderate,Overcast,Dry,Bus,3,4,0,Distracted Driving
+TA1032,9/2/2023,9:03,Surat,Gujarat,Minor,Rain,Potholes,Auto Rickshaw,1,0,0,Overtaking
+TA1033,7/30/2024,3:24,Chandigarh,Chandigarh,Minor,Cloudy,Under Construction,Auto Rickshaw,2,5,0,Speeding
+TA1034,1/14/2024,9:43,Ahmedabad,Gujarat,Minor,Overcast,Poor,Truck,1,8,0,Poor Road Condition
+TA1035,5/18/2023,9:01,Mumbai,Maharashtra,Minor,Clear,Under Construction,Motorcycle,3,4,0,Signal Violation
+TA1036,12/18/2023,6:56,Kolkata,West Bengal,Moderate,Rain,Under Construction,Bus,3,0,0,Speeding
+TA1037,10/11/2023,1:30,Bhopal,Madhya Pradesh,Minor,Cloudy,Poor,Motorcycle,4,8,0,Weather
+TA1038,7/28/2024,0:19,Bhopal,Madhya Pradesh,Minor,Cloudy,Under Construction,Car,3,8,0,Distracted Driving
+TA1039,5/11/2023,1:25,Bhopal,Madhya Pradesh,Minor,Clear,Poor,Motorcycle,2,1,0,Poor Road Condition
+TA1040,2/21/2024,21:11,Patna,Bihar,Moderate,Cloudy,Wet,SUV,2,6,0,Speeding
+TA1041,12/7/2023,14:03,Pune,Maharashtra,Severe,Cloudy,Poor,Motorcycle,1,6,0,Drunk Driving
+TA1042,4/26/2024,7:35,Bengaluru,Karnataka,Minor,Fog,Poor,Auto Rickshaw,2,3,0,Speeding
+TA1043,2/13/2024,11:12,Kolkata,West Bengal,Minor,Clear,Poor,Auto Rickshaw,4,8,0,Poor Road Condition
+TA1044,4/29/2023,8:54,Hyderabad,Telangana,Minor,Rain,Dry,Car,4,5,0,Weather
+TA1045,3/22/2024,20:41,Surat,Gujarat,Fatal,Clear,Potholes,Truck,2,4,0,Weather
+TA1046,1/2/2023,17:44,Bhopal,Madhya Pradesh,Severe,Overcast,Wet,Auto Rickshaw,4,1,0,Weather
+TA1047,9/30/2024,10:42,Surat,Gujarat,Moderate,Clear,Poor,Truck,3,6,0,Poor Road Condition
+TA1048,12/14/2024,10:05,Indore,Madhya Pradesh,Moderate,Cloudy,Potholes,Van,4,2,0,Signal Violation
+TA1049,11/5/2023,13:51,Bhubaneswar,Odisha,Moderate,Clear,Poor,Auto Rickshaw,2,6,0,Drunk Driving
+TA1050,9/13/2024,22:20,Bhubaneswar,Odisha,Minor,Fog,Potholes,Van,2,8,0,Overtaking
+TA1051,11/5/2024,2:53,Pune,Maharashtra,Minor,Overcast,Poor,Car,2,4,0,Distracted Driving
+TA1052,5/31/2023,0:50,Kolkata,West Bengal,Minor,Fog,Under Construction,SUV,1,7,0,Overtaking
+TA1053,7/19/2023,23:46,Bhubaneswar,Odisha,Minor,Fog,Wet,Motorcycle,1,1,0,Drunk Driving
+TA1054,8/13/2023,6:00,Bhopal,Madhya Pradesh,Severe,Overcast,Potholes,Car,2,1,0,Overtaking
+TA1055,4/20/2024,22:47,Delhi,Delhi,Moderate,Overcast,Under Construction,Auto Rickshaw,4,8,0,Overtaking
+TA1056,4/1/2024,5:25,Patna,Bihar,Moderate,Fog,Potholes,Auto Rickshaw,2,4,0,Drunk Driving
+TA1057,5/11/2024,21:23,Kochi,Kerala,Minor,Fog,Dry,Van,3,3,0,Poor Road Condition
+TA1058,11/24/2023,18:26,Surat,Gujarat,Minor,Cloudy,Wet,Bus,2,3,0,Speeding
+TA1059,2/22/2024,11:17,Bhopal,Madhya Pradesh,Moderate,Fog,Dry,Motorcycle,4,6,0,Drunk Driving
+TA1060,12/13/2024,0:40,Bhubaneswar,Odisha,Severe,Overcast,Potholes,Bus,1,5,0,Poor Road Condition
+TA1061,3/5/2024,18:22,Indore,Madhya Pradesh,Moderate,Overcast,Under Construction,Motorcycle,4,3,0,Poor Road Condition
+TA1062,5/12/2024,0:59,Bhopal,Madhya Pradesh,Minor,Fog,Wet,SUV,4,2,0,Signal Violation
+TA1063,1/28/2023,13:26,Patna,Bihar,Moderate,Clear,Dry,Van,4,2,0,Drunk Driving
+TA1064,7/6/2023,1:42,Visakhapatnam,Andhra Pradesh,Minor,Rain,Wet,Bus,3,5,0,Drunk Driving
+TA1065,10/12/2023,14:23,Indore,Madhya Pradesh,Minor,Clear,Potholes,Car,1,5,0,Distracted Driving
+TA1066,10/29/2024,1:22,Chennai,Tamil Nadu,Moderate,Cloudy,Wet,SUV,1,2,0,Distracted Driving
+TA1067,4/29/2024,22:51,Delhi,Delhi,Minor,Cloudy,Potholes,Van,3,5,0,Distracted Driving
+TA1068,9/13/2024,3:54,Chandigarh,Chandigarh,Moderate,Cloudy,Poor,Car,1,4,0,Signal Violation
+TA1069,2/11/2024,6:46,Indore,Madhya Pradesh,Minor,Cloudy,Dry,Van,3,1,0,Drunk Driving
+TA1070,2/12/2023,11:51,Bhubaneswar,Odisha,Moderate,Rain,Dry,Truck,3,0,0,Drunk Driving
+TA1071,5/16/2024,3:36,Bhopal,Madhya Pradesh,Minor,Rain,Potholes,Van,2,6,0,Distracted Driving
+TA1072,10/28/2024,9:13,Kochi,Kerala,Moderate,Overcast,Potholes,Bus,4,4,0,Poor Road Condition
+TA1073,3/30/2023,9:31,Ahmedabad,Gujarat,Severe,Cloudy,Potholes,Truck,4,5,0,Speeding
+TA1074,11/29/2023,6:12,Coimbatore,Tamil Nadu,Moderate,Rain,Poor,Auto Rickshaw,3,4,0,Signal Violation
+TA1075,6/13/2024,6:31,Hyderabad,Telangana,Minor,Fog,Potholes,Truck,2,7,0,Weather
+TA1076,4/3/2024,0:35,Coimbatore,Tamil Nadu,Minor,Cloudy,Potholes,Van,2,4,0,Weather
+TA1077,1/13/2024,16:09,Bhubaneswar,Odisha,Moderate,Rain,Potholes,Van,3,5,0,Weather
+TA1078,10/5/2023,10:27,Visakhapatnam,Andhra Pradesh,Minor,Clear,Wet,Auto Rickshaw,1,8,0,Drunk Driving
+TA1079,7/16/2023,7:23,Pune,Maharashtra,Moderate,Rain,Under Construction,SUV,3,1,0,Drunk Driving
+TA1080,10/31/2023,7:45,Kolkata,West Bengal,Minor,Rain,Dry,Van,2,4,0,Speeding
+TA1081,7/20/2024,9:58,Bengaluru,Karnataka,Moderate,Cloudy,Potholes,Car,1,4,0,Overtaking
+TA1082,3/27/2024,11:37,Coimbatore,Tamil Nadu,Minor,Clear,Poor,SUV,4,1,0,Drunk Driving
+TA1083,2/15/2024,16:47,Chennai,Tamil Nadu,Minor,Clear,Wet,Motorcycle,3,1,0,Distracted Driving
+TA1084,7/25/2024,14:12,Mumbai,Maharashtra,Moderate,Overcast,Wet,SUV,4,7,0,Overtaking
+TA1085,8/25/2024,14:38,Lucknow,Uttar Pradesh,Minor,Overcast,Dry,Truck,1,3,0,Weather
+TA1086,9/28/2023,22:32,Kolkata,West Bengal,Minor,Cloudy,Wet,Truck,1,2,0,Speeding
+TA1087,4/6/2024,23:31,Bhopal,Madhya Pradesh,Moderate,Rain,Dry,Motorcycle,3,4,0,Weather
+TA1088,3/14/2023,23:27,Visakhapatnam,Andhra Pradesh,Minor,Rain,Under Construction,Van,2,6,0,Speeding
+TA1089,8/19/2023,22:06,Patna,Bihar,Minor,Rain,Wet,Car,1,2,0,Drunk Driving
+TA1090,9/1/2024,19:25,Lucknow,Uttar Pradesh,Severe,Fog,Dry,Bus,3,6,0,Poor Road Condition
+TA1091,7/6/2024,16:51,Kochi,Kerala,Minor,Overcast,Dry,Bus,3,4,0,Speeding
+TA1092,8/23/2023,23:00,Chennai,Tamil Nadu,Severe,Overcast,Under Construction,Car,3,0,0,Drunk Driving
+TA1093,4/26/2024,17:42,Pune,Maharashtra,Moderate,Rain,Wet,Truck,4,7,0,Speeding
+TA1094,12/23/2023,13:56,Coimbatore,Tamil Nadu,Minor,Clear,Wet,Auto Rickshaw,4,7,0,Poor Road Condition
+TA1095,7/17/2024,1:15,Indore,Madhya Pradesh,Moderate,Rain,Poor,Auto Rickshaw,1,6,0,Drunk Driving
+TA1096,1/2/2023,22:26,Kochi,Kerala,Severe,Fog,Potholes,Car,2,8,0,Poor Road Condition
+TA1097,5/25/2024,21:20,Chandigarh,Chandigarh,Minor,Clear,Wet,Auto Rickshaw,2,4,0,Overtaking
+TA1098,5/5/2023,0:59,Coimbatore,Tamil Nadu,Fatal,Overcast,Wet,Van,2,4,2,Speeding
+TA1099,2/22/2024,3:10,Patna,Bihar,Minor,Clear,Potholes,Car,2,7,0,Weather
+TA1100,6/5/2024,9:19,Lucknow,Uttar Pradesh,Minor,Fog,Potholes,Motorcycle,4,8,0,Distracted Driving
+TA1101,7/15/2023,20:27,Indore,Madhya Pradesh,Moderate,Cloudy,Dry,Auto Rickshaw,4,5,0,Drunk Driving
+TA1102,10/1/2023,0:05,Kochi,Kerala,Minor,Rain,Under Construction,Truck,4,2,0,Overtaking
+TA1103,5/10/2024,11:46,Patna,Bihar,Minor,Overcast,Potholes,Bus,3,3,0,Weather
+TA1104,8/8/2024,13:04,Ahmedabad,Gujarat,Minor,Fog,Dry,Auto Rickshaw,4,6,0,Overtaking
+TA1105,5/22/2024,1:15,Delhi,Delhi,Minor,Overcast,Poor,SUV,1,7,0,Speeding
+TA1106,4/12/2024,0:31,Kochi,Kerala,Moderate,Fog,Wet,Car,4,4,0,Poor Road Condition
+TA1107,12/10/2024,13:34,Chandigarh,Chandigarh,Moderate,Rain,Under Construction,Bus,3,7,0,Drunk Driving
+TA1108,2/6/2023,21:04,Patna,Bihar,Minor,Rain,Wet,Van,1,6,0,Speeding
+TA1109,3/30/2024,5:40,Mumbai,Maharashtra,Moderate,Clear,Dry,Auto Rickshaw,1,4,0,Poor Road Condition
+TA1110,3/17/2024,4:58,Nagpur,Maharashtra,Minor,Fog,Under Construction,Van,2,2,0,Distracted Driving
+TA1111,9/16/2024,13:03,Chennai,Tamil Nadu,Moderate,Cloudy,Potholes,Truck,2,3,0,Overtaking
+TA1112,4/15/2024,8:42,Jaipur,Rajasthan,Moderate,Fog,Poor,Van,2,1,0,Overtaking
+TA1113,8/24/2024,10:12,Nagpur,Maharashtra,Moderate,Fog,Poor,Bus,3,3,0,Overtaking
+TA1114,4/20/2023,8:05,Coimbatore,Tamil Nadu,Minor,Rain,Under Construction,Auto Rickshaw,3,0,0,Drunk Driving
+TA1115,10/9/2023,0:16,Indore,Madhya Pradesh,Moderate,Clear,Under Construction,Van,4,4,0,Drunk Driving
+TA1116,9/13/2024,12:01,Ahmedabad,Gujarat,Minor,Cloudy,Under Construction,Auto Rickshaw,2,1,0,Weather
+TA1117,11/13/2023,15:02,Bengaluru,Karnataka,Minor,Rain,Wet,Car,3,5,0,Weather
+TA1118,6/29/2023,6:51,Bhopal,Madhya Pradesh,Minor,Overcast,Poor,Truck,3,2,0,Poor Road Condition
+TA1119,10/30/2023,11:33,Coimbatore,Tamil Nadu,Severe,Fog,Dry,Motorcycle,2,6,0,Drunk Driving
+TA1120,1/10/2024,3:04,Patna,Bihar,Moderate,Clear,Poor,Truck,1,7,0,Poor Road Condition
+TA1121,8/21/2024,13:00,Jaipur,Rajasthan,Severe,Rain,Dry,Van,2,7,0,Speeding
+TA1122,7/28/2024,11:11,Chandigarh,Chandigarh,Severe,Cloudy,Dry,Van,4,4,0,Weather
+TA1123,4/30/2023,4:46,Bhopal,Madhya Pradesh,Minor,Clear,Poor,Bus,1,1,0,Distracted Driving
+TA1124,5/19/2023,13:15,Patna,Bihar,Moderate,Overcast,Potholes,Truck,2,6,0,Weather
+TA1125,5/16/2024,21:00,Mumbai,Maharashtra,Minor,Rain,Dry,Van,3,3,0,Overtaking
+TA1126,8/30/2023,12:22,Visakhapatnam,Andhra Pradesh,Minor,Rain,Under Construction,Van,3,0,0,Overtaking
+TA1127,7/14/2023,4:10,Jaipur,Rajasthan,Severe,Fog,Dry,Van,2,0,0,Speeding
+TA1128,9/7/2023,4:17,Surat,Gujarat,Moderate,Cloudy,Dry,SUV,2,3,0,Drunk Driving
+TA1129,12/3/2023,5:02,Ahmedabad,Gujarat,Moderate,Overcast,Dry,Auto Rickshaw,2,2,0,Signal Violation
+TA1130,6/28/2023,3:45,Jaipur,Rajasthan,Moderate,Clear,Wet,Car,3,3,0,Signal Violation
+TA1131,1/17/2023,5:56,Surat,Gujarat,Minor,Cloudy,Potholes,Truck,1,1,0,Overtaking
+TA1132,1/6/2024,17:31,Visakhapatnam,Andhra Pradesh,Moderate,Fog,Under Construction,Motorcycle,1,8,0,Poor Road Condition
+TA1133,10/20/2024,1:03,Visakhapatnam,Andhra Pradesh,Minor,Fog,Potholes,Bus,1,7,0,Weather
+TA1134,3/17/2023,2:45,Visakhapatnam,Andhra Pradesh,Minor,Cloudy,Dry,Motorcycle,3,8,0,Weather
+TA1135,1/26/2024,20:23,Surat,Gujarat,Moderate,Fog,Under Construction,Truck,4,1,0,Drunk Driving
+TA1136,11/1/2024,22:13,Mumbai,Maharashtra,Severe,Overcast,Wet,Bus,4,3,0,Overtaking
+TA1137,4/9/2024,13:36,Surat,Gujarat,Minor,Clear,Poor,Bus,3,4,0,Poor Road Condition
+TA1138,12/4/2024,16:11,Delhi,Delhi,Minor,Clear,Dry,Bus,1,5,0,Drunk Driving
+TA1139,7/23/2024,2:02,Delhi,Delhi,Moderate,Overcast,Under Construction,Auto Rickshaw,1,6,0,Poor Road Condition
+TA1140,2/22/2023,9:49,Bhopal,Madhya Pradesh,Moderate,Rain,Dry,Truck,2,2,0,Weather
+TA1141,8/18/2023,3:41,Coimbatore,Tamil Nadu,Minor,Overcast,Poor,Car,3,3,0,Drunk Driving
+TA1142,7/28/2024,21:13,Bhopal,Madhya Pradesh,Moderate,Overcast,Dry,Truck,3,0,0,Distracted Driving
+TA1143,12/20/2024,10:32,Jaipur,Rajasthan,Severe,Rain,Dry,Motorcycle,2,6,0,Speeding
+TA1144,10/10/2024,1:02,Delhi,Delhi,Minor,Overcast,Wet,Bus,4,7,0,Poor Road Condition
+TA1145,1/14/2024,10:38,Pune,Maharashtra,Moderate,Overcast,Under Construction,Car,1,2,0,Distracted Driving
+TA1146,2/20/2023,23:00,Chandigarh,Chandigarh,Minor,Fog,Potholes,Bus,4,6,0,Poor Road Condition
+TA1147,6/8/2024,3:53,Kolkata,West Bengal,Minor,Clear,Poor,Van,4,8,0,Weather
+TA1148,2/16/2023,7:31,Lucknow,Uttar Pradesh,Minor,Overcast,Dry,Car,2,4,0,Distracted Driving
+TA1149,9/19/2023,9:52,Delhi,Delhi,Minor,Clear,Potholes,Van,4,2,0,Distracted Driving
+TA1150,6/29/2024,7:51,Indore,Madhya Pradesh,Moderate,Rain,Dry,Bus,1,6,0,Speeding
+TA1151,3/21/2023,10:41,Visakhapatnam,Andhra Pradesh,Moderate,Overcast,Potholes,Van,4,4,0,Speeding
+TA1152,1/22/2023,11:05,Indore,Madhya Pradesh,Minor,Overcast,Potholes,SUV,3,1,0,Overtaking
+TA1153,9/7/2023,14:52,Mumbai,Maharashtra,Moderate,Overcast,Dry,Bus,3,5,0,Distracted Driving
+TA1154,6/22/2023,2:36,Surat,Gujarat,Moderate,Clear,Under Construction,Truck,2,5,0,Poor Road Condition
+TA1155,8/30/2023,3:30,Delhi,Delhi,Minor,Cloudy,Wet,Truck,2,1,0,Distracted Driving
+TA1156,4/20/2024,19:14,Coimbatore,Tamil Nadu,Moderate,Fog,Under Construction,Van,3,5,0,Distracted Driving
+TA1157,3/11/2023,16:00,Visakhapatnam,Andhra Pradesh,Minor,Rain,Poor,Truck,1,5,0,Signal Violation
+TA1158,11/14/2023,15:45,Chennai,Tamil Nadu,Moderate,Clear,Poor,SUV,3,1,0,Weather
+TA1159,9/21/2024,20:16,Chennai,Tamil Nadu,Moderate,Fog,Under Construction,Truck,1,7,0,Drunk Driving
+TA1160,10/29/2024,6:25,Bhubaneswar,Odisha,Minor,Fog,Under Construction,Motorcycle,1,7,0,Speeding
+TA1161,3/28/2023,17:13,Surat,Gujarat,Moderate,Clear,Wet,Van,4,7,0,Signal Violation
+TA1162,9/16/2024,5:25,Kochi,Kerala,Minor,Rain,Potholes,Bus,3,0,0,Drunk Driving
+TA1163,3/9/2023,11:15,Surat,Gujarat,Minor,Fog,Poor,Auto Rickshaw,2,5,0,Speeding
+TA1164,11/10/2024,4:49,Bhubaneswar,Odisha,Severe,Rain,Potholes,Motorcycle,1,4,0,Signal Violation
+TA1165,10/20/2024,11:12,Indore,Madhya Pradesh,Severe,Overcast,Dry,Van,4,8,0,Poor Road Condition
+TA1166,1/7/2024,10:32,Hyderabad,Telangana,Minor,Cloudy,Poor,SUV,4,3,0,Distracted Driving
+TA1167,6/8/2023,2:38,Delhi,Delhi,Minor,Clear,Under Construction,SUV,1,5,0,Drunk Driving
+TA1168,5/15/2023,20:23,Chandigarh,Chandigarh,Minor,Cloudy,Wet,SUV,2,7,0,Speeding
+TA1169,1/9/2024,23:05,Bhopal,Madhya Pradesh,Moderate,Fog,Under Construction,Auto Rickshaw,4,3,0,Signal Violation
+TA1170,11/13/2023,16:00,Ahmedabad,Gujarat,Severe,Cloudy,Poor,Van,4,7,0,Drunk Driving
+TA1171,1/27/2024,17:09,Lucknow,Uttar Pradesh,Moderate,Cloudy,Wet,SUV,2,4,0,Speeding
+TA1172,1/16/2024,18:55,Coimbatore,Tamil Nadu,Severe,Overcast,Dry,Auto Rickshaw,1,2,0,Poor Road Condition
+TA1173,6/9/2024,5:01,Visakhapatnam,Andhra Pradesh,Severe,Clear,Wet,SUV,4,5,0,Speeding
+TA1174,2/24/2023,13:31,Bhopal,Madhya Pradesh,Moderate,Cloudy,Potholes,Car,3,3,0,Speeding
+TA1175,4/12/2023,22:11,Surat,Gujarat,Minor,Cloudy,Wet,Car,3,7,0,Weather
+TA1176,12/23/2024,16:00,Delhi,Delhi,Minor,Clear,Dry,Car,3,3,0,Drunk Driving
+TA1177,7/15/2024,20:46,Delhi,Delhi,Moderate,Clear,Poor,Motorcycle,3,1,0,Speeding
+TA1178,3/5/2024,21:48,Ahmedabad,Gujarat,Moderate,Fog,Dry,Car,4,8,0,Speeding
+TA1179,8/11/2024,8:15,Kochi,Kerala,Moderate,Rain,Potholes,Car,3,3,0,Signal Violation
+TA1180,7/11/2023,22:40,Bhopal,Madhya Pradesh,Moderate,Overcast,Poor,Car,1,6,0,Drunk Driving
+TA1181,2/14/2023,21:41,Coimbatore,Tamil Nadu,Minor,Rain,Poor,Van,1,5,0,Drunk Driving
+TA1182,12/20/2023,8:13,Chennai,Tamil Nadu,Moderate,Clear,Under Construction,Van,3,2,0,Speeding
+TA1183,7/13/2024,11:33,Nagpur,Maharashtra,Severe,Cloudy,Potholes,Van,4,2,0,Drunk Driving
+TA1184,3/6/2023,15:37,Delhi,Delhi,Minor,Cloudy,Dry,SUV,2,0,0,Poor Road Condition
+TA1185,6/11/2024,13:35,Lucknow,Uttar Pradesh,Fatal,Overcast,Potholes,Auto Rickshaw,1,3,1,Poor Road Condition
+TA1186,11/2/2024,11:19,Bengaluru,Karnataka,Minor,Rain,Potholes,Bus,4,6,0,Poor Road Condition
+TA1187,5/23/2024,23:37,Pune,Maharashtra,Moderate,Overcast,Poor,SUV,1,6,0,Speeding
+TA1188,9/8/2024,6:09,Bhopal,Madhya Pradesh,Moderate,Rain,Dry,Car,3,4,0,Poor Road Condition
+TA1189,9/9/2024,14:32,Visakhapatnam,Andhra Pradesh,Minor,Fog,Poor,Bus,1,5,0,Signal Violation
+TA1190,10/9/2023,21:49,Bhopal,Madhya Pradesh,Fatal,Clear,Dry,Van,4,5,2,Drunk Driving
+TA1191,2/1/2023,4:52,Pune,Maharashtra,Severe,Fog,Dry,Motorcycle,1,3,0,Drunk Driving
+TA1192,1/6/2024,13:04,Nagpur,Maharashtra,Severe,Clear,Under Construction,Motorcycle,4,5,0,Poor Road Condition
+TA1193,3/20/2023,19:35,Visakhapatnam,Andhra Pradesh,Minor,Rain,Potholes,Auto Rickshaw,3,3,0,Speeding
+TA1194,7/10/2023,17:02,Hyderabad,Telangana,Moderate,Overcast,Dry,Auto Rickshaw,3,7,0,Distracted Driving
+TA1195,10/20/2023,23:41,Chandigarh,Chandigarh,Severe,Fog,Wet,Car,2,1,0,Overtaking
+TA1196,3/31/2024,2:59,Pune,Maharashtra,Severe,Rain,Poor,Van,1,8,0,Signal Violation
+TA1197,11/4/2023,5:22,Lucknow,Uttar Pradesh,Moderate,Cloudy,Poor,Truck,2,1,0,Distracted Driving
+TA1198,8/31/2023,16:51,Delhi,Delhi,Minor,Overcast,Under Construction,Auto Rickshaw,4,8,0,Distracted Driving
+TA1199,3/30/2023,2:14,Chandigarh,Chandigarh,Minor,Fog,Under Construction,Bus,4,1,0,Distracted Driving
+TA1200,10/19/2024,2:31,Surat,Gujarat,Minor,Overcast,Poor,Motorcycle,2,2,0,Overtaking
+TA1201,2/26/2023,4:14,Kochi,Kerala,Moderate,Rain,Wet,Motorcycle,3,3,0,Poor Road Condition
+TA1202,10/18/2023,2:41,Kochi,Kerala,Minor,Overcast,Poor,Motorcycle,3,8,0,Speeding
+TA1203,10/18/2024,5:45,Kochi,Kerala,Moderate,Overcast,Wet,Motorcycle,3,0,0,Drunk Driving
+TA1204,3/25/2023,1:33,Hyderabad,Telangana,Severe,Overcast,Poor,Van,2,6,0,Signal Violation
+TA1205,5/24/2024,21:24,Hyderabad,Telangana,Moderate,Rain,Potholes,Motorcycle,4,4,0,Overtaking
+TA1206,12/6/2024,2:02,Chennai,Tamil Nadu,Minor,Fog,Potholes,Bus,2,5,0,Signal Violation
+TA1207,11/17/2023,10:53,Delhi,Delhi,Moderate,Rain,Potholes,Motorcycle,3,8,0,Signal Violation
+TA1208,11/23/2023,8:15,Mumbai,Maharashtra,Moderate,Rain,Potholes,Motorcycle,2,1,0,Speeding
+TA1209,1/29/2024,21:00,Lucknow,Uttar Pradesh,Minor,Cloudy,Poor,Truck,3,3,0,Drunk Driving
+TA1210,5/25/2024,17:34,Pune,Maharashtra,Moderate,Rain,Potholes,Car,1,6,0,Signal Violation
+TA1211,9/4/2023,7:20,Visakhapatnam,Andhra Pradesh,Moderate,Clear,Dry,Auto Rickshaw,4,7,0,Poor Road Condition
+TA1212,1/9/2023,3:40,Patna,Bihar,Minor,Rain,Poor,SUV,4,5,0,Speeding
+TA1213,2/22/2023,19:27,Indore,Madhya Pradesh,Moderate,Rain,Under Construction,Auto Rickshaw,1,6,0,Signal Violation
+TA1214,7/17/2024,9:32,Visakhapatnam,Andhra Pradesh,Severe,Overcast,Under Construction,Car,2,1,0,Overtaking
+TA1215,12/14/2023,19:02,Nagpur,Maharashtra,Severe,Cloudy,Wet,Truck,4,8,0,Speeding
+TA1216,2/9/2023,4:40,Bengaluru,Karnataka,Moderate,Fog,Under Construction,Bus,2,8,0,Distracted Driving
+TA1217,9/19/2024,10:52,Surat,Gujarat,Minor,Overcast,Poor,Truck,3,8,0,Drunk Driving
+TA1218,6/29/2024,16:43,Kochi,Kerala,Moderate,Rain,Potholes,SUV,1,5,0,Poor Road Condition
+TA1219,3/2/2024,19:55,Mumbai,Maharashtra,Minor,Clear,Under Construction,Bus,3,3,0,Weather
+TA1220,8/20/2024,16:23,Bengaluru,Karnataka,Minor,Overcast,Potholes,Motorcycle,2,0,0,Signal Violation
+TA1221,7/15/2023,0:38,Mumbai,Maharashtra,Minor,Fog,Wet,Bus,2,6,0,Signal Violation
+TA1222,4/27/2024,2:07,Chandigarh,Chandigarh,Moderate,Overcast,Wet,Truck,3,7,0,Signal Violation
+TA1223,11/18/2023,5:54,Indore,Madhya Pradesh,Moderate,Overcast,Poor,Truck,3,4,0,Signal Violation
+TA1224,7/16/2023,8:24,Coimbatore,Tamil Nadu,Minor,Rain,Wet,Auto Rickshaw,3,3,0,Weather
+TA1225,11/21/2023,16:22,Coimbatore,Tamil Nadu,Minor,Rain,Poor,Car,4,6,0,Drunk Driving
+TA1226,5/30/2023,9:54,Nagpur,Maharashtra,Minor,Clear,Poor,Bus,3,7,0,Distracted Driving
+TA1227,7/5/2024,9:15,Kolkata,West Bengal,Severe,Rain,Wet,Car,2,3,0,Speeding
+TA1228,8/20/2023,21:46,Kochi,Kerala,Minor,Clear,Potholes,Auto Rickshaw,4,1,0,Weather
+TA1229,1/6/2023,18:47,Delhi,Delhi,Fatal,Cloudy,Potholes,Van,4,7,2,Distracted Driving
+TA1230,11/25/2023,9:44,Lucknow,Uttar Pradesh,Moderate,Clear,Under Construction,Motorcycle,1,2,0,Overtaking
+TA1231,2/7/2023,13:33,Pune,Maharashtra,Moderate,Cloudy,Poor,Car,1,4,0,Signal Violation
+TA1232,4/20/2023,11:26,Chandigarh,Chandigarh,Minor,Overcast,Under Construction,Bus,2,8,0,Overtaking
+TA1233,7/17/2023,3:50,Jaipur,Rajasthan,Minor,Fog,Poor,Van,2,0,0,Weather
+TA1234,10/30/2023,19:22,Surat,Gujarat,Moderate,Cloudy,Wet,Truck,4,6,0,Signal Violation
+TA1235,3/30/2023,13:40,Surat,Gujarat,Moderate,Cloudy,Wet,Bus,3,3,0,Speeding
+TA1236,1/28/2024,8:02,Jaipur,Rajasthan,Minor,Rain,Poor,Auto Rickshaw,1,4,0,Weather
+TA1237,12/10/2024,8:03,Nagpur,Maharashtra,Minor,Clear,Potholes,Auto Rickshaw,2,6,0,Weather
+TA1238,12/21/2024,10:36,Kochi,Kerala,Moderate,Rain,Poor,Truck,2,3,0,Distracted Driving
+TA1239,6/6/2023,15:31,Coimbatore,Tamil Nadu,Moderate,Overcast,Poor,Bus,4,8,0,Drunk Driving
+TA1240,9/11/2023,23:13,Kolkata,West Bengal,Moderate,Clear,Under Construction,Bus,3,1,0,Signal Violation
+TA1241,3/5/2023,18:41,Mumbai,Maharashtra,Severe,Cloudy,Under Construction,Truck,2,2,0,Poor Road Condition
+TA1242,3/28/2024,3:58,Kochi,Kerala,Moderate,Overcast,Potholes,Car,4,0,0,Overtaking
+TA1243,6/9/2024,14:10,Delhi,Delhi,Moderate,Clear,Under Construction,Bus,3,0,0,Overtaking
+TA1244,1/4/2023,7:26,Jaipur,Rajasthan,Moderate,Clear,Potholes,Auto Rickshaw,1,8,0,Speeding
+TA1245,4/28/2024,1:04,Chennai,Tamil Nadu,Minor,Cloudy,Wet,SUV,4,5,0,Overtaking
+TA1246,1/22/2024,12:49,Visakhapatnam,Andhra Pradesh,Minor,Overcast,Wet,Van,3,1,0,Distracted Driving
+TA1247,2/7/2024,18:03,Patna,Bihar,Minor,Cloudy,Dry,SUV,1,4,0,Overtaking
+TA1248,3/10/2024,18:09,Patna,Bihar,Minor,Cloudy,Wet,Bus,3,2,0,Poor Road Condition
+TA1249,4/26/2023,1:05,Kolkata,West Bengal,Severe,Fog,Under Construction,SUV,1,3,0,Distracted Driving
+TA1250,4/14/2023,20:16,Chennai,Tamil Nadu,Minor,Overcast,Dry,Motorcycle,1,6,0,Overtaking
+TA1251,7/6/2024,7:24,Ahmedabad,Gujarat,Moderate,Clear,Wet,Truck,3,3,0,Drunk Driving
+TA1252,11/23/2023,19:42,Bhubaneswar,Odisha,Moderate,Rain,Wet,Auto Rickshaw,2,8,0,Distracted Driving
+TA1253,11/4/2023,9:23,Bhopal,Madhya Pradesh,Minor,Overcast,Wet,Van,4,8,0,Overtaking
+TA1254,12/19/2023,21:57,Bengaluru,Karnataka,Moderate,Overcast,Poor,Van,4,6,0,Distracted Driving
+TA1255,1/21/2024,6:16,Lucknow,Uttar Pradesh,Moderate,Fog,Wet,SUV,2,4,0,Drunk Driving
+TA1256,4/19/2024,1:58,Delhi,Delhi,Moderate,Fog,Under Construction,Truck,2,6,0,Distracted Driving
+TA1257,7/28/2023,11:16,Jaipur,Rajasthan,Moderate,Fog,Poor,Car,2,0,0,Poor Road Condition
+TA1258,11/20/2024,20:38,Indore,Madhya Pradesh,Moderate,Clear,Wet,SUV,2,7,0,Distracted Driving
+TA1259,11/7/2023,0:31,Surat,Gujarat,Minor,Cloudy,Dry,Van,4,3,0,Weather
+TA1260,12/21/2024,6:58,Chandigarh,Chandigarh,Minor,Cloudy,Under Construction,Auto Rickshaw,3,6,0,Overtaking
+TA1261,10/26/2024,12:15,Patna,Bihar,Minor,Rain,Under Construction,Bus,4,1,0,Drunk Driving
+TA1262,11/24/2023,6:56,Coimbatore,Tamil Nadu,Minor,Fog,Dry,Truck,2,2,0,Speeding
+TA1263,7/20/2024,19:56,Jaipur,Rajasthan,Moderate,Fog,Poor,Motorcycle,2,5,0,Distracted Driving
+TA1264,8/6/2024,8:23,Indore,Madhya Pradesh,Moderate,Rain,Poor,SUV,4,7,0,Overtaking
+TA1265,12/27/2023,5:46,Pune,Maharashtra,Minor,Overcast,Potholes,Motorcycle,1,8,0,Speeding
+TA1266,11/15/2024,1:39,Chennai,Tamil Nadu,Moderate,Fog,Wet,SUV,2,1,0,Weather
+TA1267,1/10/2023,7:27,Delhi,Delhi,Moderate,Rain,Dry,Truck,4,7,0,Speeding
+TA1268,6/28/2024,18:49,Hyderabad,Telangana,Minor,Clear,Under Construction,Van,3,8,0,Poor Road Condition
+TA1269,5/29/2024,23:49,Hyderabad,Telangana,Moderate,Cloudy,Dry,Car,2,3,0,Distracted Driving
+TA1270,6/23/2024,8:36,Chandigarh,Chandigarh,Severe,Rain,Potholes,Car,3,6,0,Overtaking
+TA1271,9/7/2023,23:47,Bhubaneswar,Odisha,Minor,Clear,Dry,Car,4,6,0,Overtaking
+TA1272,5/2/2024,1:54,Patna,Bihar,Moderate,Cloudy,Dry,Bus,4,5,0,Signal Violation
+TA1273,6/24/2024,1:27,Mumbai,Maharashtra,Minor,Overcast,Potholes,Auto Rickshaw,1,1,0,Weather
+TA1274,7/10/2024,19:14,Jaipur,Rajasthan,Moderate,Cloudy,Poor,Car,2,2,0,Drunk Driving
+TA1275,3/20/2023,10:12,Indore,Madhya Pradesh,Minor,Cloudy,Under Construction,SUV,4,8,0,Poor Road Condition
+TA1276,5/24/2023,23:31,Indore,Madhya Pradesh,Moderate,Overcast,Poor,Car,1,6,0,Distracted Driving
+TA1277,12/15/2023,20:39,Chennai,Tamil Nadu,Moderate,Overcast,Potholes,SUV,3,0,0,Weather
+TA1278,4/6/2024,16:44,Jaipur,Rajasthan,Minor,Overcast,Potholes,Bus,2,6,0,Speeding
+TA1279,10/30/2023,8:24,Chandigarh,Chandigarh,Moderate,Clear,Poor,Motorcycle,4,2,0,Weather
+TA1280,11/21/2023,12:18,Indore,Madhya Pradesh,Minor,Clear,Poor,Bus,3,4,0,Speeding
+TA1281,3/31/2023,6:23,Delhi,Delhi,Minor,Overcast,Under Construction,Truck,4,1,0,Speeding
+TA1282,12/29/2023,18:55,Chennai,Tamil Nadu,Minor,Overcast,Poor,SUV,4,0,0,Poor Road Condition
+TA1283,2/2/2024,2:53,Bhopal,Madhya Pradesh,Moderate,Overcast,Wet,Truck,2,6,0,Distracted Driving
+TA1284,10/3/2023,10:16,Delhi,Delhi,Minor,Cloudy,Dry,Motorcycle,4,4,0,Overtaking
+TA1285,5/10/2024,2:37,Lucknow,Uttar Pradesh,Minor,Cloudy,Potholes,Truck,2,7,0,Speeding
+TA1286,11/8/2023,0:13,Delhi,Delhi,Severe,Rain,Under Construction,Bus,3,7,0,Poor Road Condition
+TA1287,10/28/2024,20:17,Bhopal,Madhya Pradesh,Minor,Rain,Under Construction,Van,2,7,0,Poor Road Condition
+TA1288,2/12/2024,10:53,Pune,Maharashtra,Minor,Fog,Under Construction,SUV,2,5,0,Overtaking
+TA1289,2/7/2024,12:27,Jaipur,Rajasthan,Minor,Overcast,Wet,Truck,2,8,0,Speeding
+TA1290,12/26/2024,7:09,Visakhapatnam,Andhra Pradesh,Minor,Rain,Dry,SUV,4,7,0,Distracted Driving
+TA1291,9/5/2023,8:37,Lucknow,Uttar Pradesh,Moderate,Fog,Potholes,Car,4,7,0,Signal Violation
+TA1292,7/1/2024,17:17,Indore,Madhya Pradesh,Severe,Fog,Under Construction,Car,3,8,0,Signal Violation
+TA1293,4/22/2023,8:28,Chennai,Tamil Nadu,Moderate,Rain,Wet,Van,1,6,0,Drunk Driving
+TA1294,3/16/2024,3:36,Surat,Gujarat,Minor,Rain,Wet,Truck,2,7,0,Poor Road Condition
+TA1295,4/19/2024,23:11,Indore,Madhya Pradesh,Moderate,Overcast,Wet,Auto Rickshaw,1,7,0,Speeding
+TA1296,3/1/2024,2:55,Lucknow,Uttar Pradesh,Minor,Cloudy,Poor,Auto Rickshaw,3,7,0,Drunk Driving
+TA1297,6/17/2024,16:29,Kolkata,West Bengal,Minor,Clear,Potholes,Van,4,5,0,Speeding
+TA1298,2/15/2023,3:55,Lucknow,Uttar Pradesh,Minor,Rain,Dry,Van,2,3,0,Signal Violation
+TA1299,7/19/2024,5:27,Pune,Maharashtra,Minor,Fog,Potholes,Motorcycle,4,2,0,Distracted Driving
+TA1300,2/10/2024,0:59,Bhopal,Madhya Pradesh,Moderate,Cloudy,Potholes,Truck,4,6,0,Speeding
+TA1301,7/30/2023,9:30,Kolkata,West Bengal,Moderate,Clear,Under Construction,Car,2,5,0,Poor Road Condition
+TA1302,4/13/2024,3:53,Kolkata,West Bengal,Minor,Fog,Under Construction,Van,3,6,0,Signal Violation
+TA1303,8/24/2024,3:53,Indore,Madhya Pradesh,Minor,Fog,Under Construction,Motorcycle,3,1,0,Weather
+TA1304,11/17/2023,4:01,Delhi,Delhi,Minor,Clear,Wet,Auto Rickshaw,2,8,0,Overtaking
+TA1305,9/2/2024,4:42,Bhopal,Madhya Pradesh,Moderate,Fog,Wet,Bus,2,8,0,Distracted Driving
+TA1306,10/23/2023,4:47,Coimbatore,Tamil Nadu,Minor,Fog,Under Construction,Car,3,0,0,Overtaking
+TA1307,7/19/2023,13:06,Delhi,Delhi,Fatal,Overcast,Potholes,Bus,4,6,2,Drunk Driving
+TA1308,5/15/2024,5:42,Visakhapatnam,Andhra Pradesh,Minor,Clear,Wet,Auto Rickshaw,1,4,0,Distracted Driving
+TA1309,10/23/2023,5:44,Patna,Bihar,Moderate,Overcast,Potholes,Truck,1,1,0,Poor Road Condition
+TA1310,1/11/2024,18:30,Patna,Bihar,Severe,Clear,Potholes,Truck,2,6,0,Speeding
+TA1311,11/1/2023,1:06,Ahmedabad,Gujarat,Minor,Rain,Dry,Bus,1,3,0,Distracted Driving
+TA1312,12/6/2024,11:58,Bhubaneswar,Odisha,Severe,Overcast,Potholes,Motorcycle,2,3,0,Drunk Driving
+TA1313,3/2/2023,19:27,Kolkata,West Bengal,Minor,Rain,Under Construction,Truck,2,5,0,Weather
+TA1314,10/24/2023,19:32,Lucknow,Uttar Pradesh,Minor,Overcast,Dry,Motorcycle,4,0,0,Poor Road Condition
+TA1315,12/19/2024,4:31,Delhi,Delhi,Minor,Rain,Wet,SUV,4,7,0,Distracted Driving
+TA1316,10/9/2024,9:10,Bhubaneswar,Odisha,Moderate,Fog,Potholes,Car,1,6,0,Signal Violation
+TA1317,12/12/2024,12:35,Jaipur,Rajasthan,Moderate,Fog,Poor,Truck,1,1,0,Weather
+TA1318,10/12/2024,22:40,Visakhapatnam,Andhra Pradesh,Moderate,Clear,Under Construction,Bus,2,6,0,Drunk Driving
+TA1319,5/21/2024,9:09,Kolkata,West Bengal,Minor,Rain,Poor,Truck,2,7,0,Drunk Driving
+TA1320,11/29/2024,1:39,Surat,Gujarat,Minor,Fog,Dry,Car,2,7,0,Overtaking
+TA1321,3/14/2024,6:54,Hyderabad,Telangana,Fatal,Cloudy,Poor,Motorcycle,3,1,2,Poor Road Condition
+TA1322,3/26/2023,12:41,Jaipur,Rajasthan,Moderate,Cloudy,Dry,Bus,3,3,0,Overtaking
+TA1323,12/21/2024,3:14,Chennai,Tamil Nadu,Minor,Fog,Dry,Motorcycle,2,8,0,Weather
+TA1324,1/10/2023,0:16,Visakhapatnam,Andhra Pradesh,Moderate,Clear,Potholes,Van,2,7,0,Speeding
+TA1325,1/28/2024,3:02,Ahmedabad,Gujarat,Moderate,Clear,Dry,Auto Rickshaw,3,4,0,Distracted Driving
+TA1326,5/17/2023,21:53,Indore,Madhya Pradesh,Fatal,Cloudy,Dry,Truck,1,2,1,Poor Road Condition
+TA1327,10/5/2024,5:10,Kolkata,West Bengal,Severe,Overcast,Potholes,SUV,2,1,0,Speeding
+TA1328,5/7/2023,20:07,Delhi,Delhi,Moderate,Rain,Potholes,Auto Rickshaw,2,3,0,Poor Road Condition
+TA1329,9/12/2023,18:53,Chennai,Tamil Nadu,Moderate,Overcast,Poor,SUV,1,4,0,Distracted Driving
+TA1330,9/13/2024,17:23,Kochi,Kerala,Minor,Fog,Poor,Van,1,3,0,Overtaking
+TA1331,4/26/2023,8:13,Indore,Madhya Pradesh,Moderate,Overcast,Dry,Truck,1,5,0,Poor Road Condition
+TA1332,2/1/2024,19:24,Delhi,Delhi,Minor,Overcast,Wet,SUV,4,1,0,Speeding
+TA1333,3/11/2023,0:28,Bhubaneswar,Odisha,Minor,Clear,Dry,SUV,4,8,0,Poor Road Condition
+TA1334,3/1/2024,14:27,Kochi,Kerala,Moderate,Clear,Under Construction,Truck,2,4,0,Speeding
+TA1335,3/22/2023,17:27,Lucknow,Uttar Pradesh,Severe,Cloudy,Under Construction,Auto Rickshaw,4,1,0,Poor Road Condition
+TA1336,9/2/2023,1:58,Bhopal,Madhya Pradesh,Minor,Fog,Dry,Bus,1,4,0,Weather
+TA1337,5/3/2023,0:25,Pune,Maharashtra,Moderate,Clear,Wet,Bus,3,8,0,Signal Violation
+TA1338,6/20/2023,12:41,Jaipur,Rajasthan,Minor,Rain,Dry,SUV,1,5,0,Drunk Driving
+TA1339,10/6/2023,17:52,Bhopal,Madhya Pradesh,Minor,Overcast,Dry,Bus,4,8,0,Poor Road Condition
+TA1340,5/26/2024,19:20,Bengaluru,Karnataka,Minor,Cloudy,Poor,SUV,1,1,0,Distracted Driving
+TA1341,1/3/2023,1:30,Kochi,Kerala,Severe,Clear,Wet,Car,4,5,0,Overtaking
+TA1342,7/3/2023,1:12,Delhi,Delhi,Moderate,Fog,Wet,Auto Rickshaw,2,6,0,Weather
+TA1343,10/5/2023,2:39,Surat,Gujarat,Moderate,Clear,Under Construction,Van,1,2,0,Distracted Driving
+TA1344,2/17/2023,13:41,Kochi,Kerala,Minor,Fog,Poor,SUV,3,5,0,Speeding
+TA1345,4/12/2024,0:16,Patna,Bihar,Minor,Rain,Under Construction,SUV,3,3,0,Overtaking
+TA1346,8/28/2024,16:50,Nagpur,Maharashtra,Fatal,Cloudy,Under Construction,SUV,2,2,0,Overtaking
+TA1347,8/27/2023,18:29,Hyderabad,Telangana,Minor,Clear,Poor,Car,4,4,0,Speeding
+TA1348,6/26/2024,8:07,Kolkata,West Bengal,Minor,Clear,Wet,Van,3,1,0,Speeding
+TA1349,6/16/2024,14:05,Ahmedabad,Gujarat,Moderate,Rain,Potholes,Van,1,1,0,Signal Violation
+TA1350,10/14/2024,13:27,Delhi,Delhi,Minor,Overcast,Dry,Bus,2,3,0,Poor Road Condition
+TA1351,11/19/2023,13:24,Jaipur,Rajasthan,Moderate,Rain,Poor,Bus,3,3,0,Speeding
+TA1352,5/20/2023,19:57,Kolkata,West Bengal,Minor,Clear,Wet,Bus,4,5,0,Overtaking
+TA1353,7/2/2024,12:13,Mumbai,Maharashtra,Fatal,Cloudy,Potholes,Auto Rickshaw,4,4,0,Speeding
+TA1354,12/3/2024,10:23,Pune,Maharashtra,Severe,Overcast,Dry,Motorcycle,3,2,0,Speeding
+TA1355,12/31/2023,13:31,Ahmedabad,Gujarat,Moderate,Rain,Poor,SUV,2,0,0,Overtaking
+TA1356,7/23/2024,18:46,Visakhapatnam,Andhra Pradesh,Minor,Fog,Dry,SUV,2,1,0,Speeding
+TA1357,8/16/2023,4:27,Bengaluru,Karnataka,Minor,Fog,Poor,Van,1,4,0,Drunk Driving
+TA1358,1/23/2023,2:12,Chennai,Tamil Nadu,Minor,Fog,Wet,Car,3,1,0,Speeding
+TA1359,2/21/2023,5:44,Visakhapatnam,Andhra Pradesh,Severe,Fog,Potholes,Bus,1,6,0,Weather
+TA1360,6/26/2023,12:04,Bhopal,Madhya Pradesh,Minor,Cloudy,Poor,Auto Rickshaw,4,2,0,Speeding
+TA1361,9/26/2024,21:03,Chandigarh,Chandigarh,Minor,Rain,Potholes,Bus,4,0,0,Speeding
+TA1362,1/28/2024,4:41,Jaipur,Rajasthan,Minor,Overcast,Wet,Van,1,6,0,Drunk Driving
+TA1363,5/6/2024,18:35,Nagpur,Maharashtra,Moderate,Rain,Under Construction,Truck,3,6,0,Poor Road Condition
+TA1364,1/27/2023,10:53,Pune,Maharashtra,Moderate,Clear,Poor,Car,4,8,0,Poor Road Condition
+TA1365,8/27/2023,5:26,Bhubaneswar,Odisha,Minor,Cloudy,Poor,Truck,1,3,0,Signal Violation
+TA1366,12/30/2023,5:55,Indore,Madhya Pradesh,Minor,Overcast,Poor,SUV,3,0,0,Weather
+TA1367,8/4/2024,19:14,Nagpur,Maharashtra,Minor,Cloudy,Potholes,Truck,3,2,0,Overtaking
+TA1368,4/3/2023,1:55,Bengaluru,Karnataka,Minor,Cloudy,Dry,Truck,4,0,0,Poor Road Condition
+TA1369,7/26/2023,4:27,Chandigarh,Chandigarh,Minor,Cloudy,Poor,Car,1,2,0,Signal Violation
+TA1370,4/24/2023,17:57,Delhi,Delhi,Severe,Clear,Poor,Van,4,1,0,Poor Road Condition
+TA1371,11/27/2023,4:39,Lucknow,Uttar Pradesh,Fatal,Fog,Potholes,Van,3,2,2,Signal Violation
+TA1372,1/1/2024,7:37,Chandigarh,Chandigarh,Moderate,Cloudy,Potholes,Auto Rickshaw,3,2,0,Distracted Driving
+TA1373,12/19/2024,19:33,Hyderabad,Telangana,Minor,Overcast,Dry,Motorcycle,3,3,0,Weather
+TA1374,4/17/2023,16:56,Bhubaneswar,Odisha,Minor,Clear,Wet,Auto Rickshaw,3,2,0,Weather
+TA1375,12/26/2024,22:52,Chennai,Tamil Nadu,Moderate,Rain,Potholes,Car,3,3,0,Distracted Driving
+TA1376,12/25/2023,8:45,Chennai,Tamil Nadu,Moderate,Clear,Dry,Bus,4,6,0,Distracted Driving
+TA1377,5/19/2024,12:55,Bhopal,Madhya Pradesh,Minor,Fog,Dry,SUV,4,3,0,Distracted Driving
+TA1378,3/17/2023,1:08,Visakhapatnam,Andhra Pradesh,Minor,Rain,Poor,Car,1,5,0,Distracted Driving
+TA1379,6/14/2023,2:33,Indore,Madhya Pradesh,Moderate,Clear,Poor,Truck,4,0,0,Overtaking
+TA1380,9/13/2024,14:49,Pune,Maharashtra,Minor,Clear,Poor,Motorcycle,2,6,0,Weather
+TA1381,7/7/2024,9:03,Patna,Bihar,Moderate,Rain,Wet,Car,1,6,0,Signal Violation
+TA1382,5/17/2024,5:14,Patna,Bihar,Minor,Clear,Potholes,Car,3,7,0,Distracted Driving
+TA1383,1/27/2023,7:03,Mumbai,Maharashtra,Minor,Rain,Dry,Bus,1,4,0,Drunk Driving
+TA1384,4/27/2024,16:41,Indore,Madhya Pradesh,Severe,Rain,Dry,Van,4,2,0,Poor Road Condition
+TA1385,1/14/2024,6:22,Indore,Madhya Pradesh,Minor,Rain,Potholes,Bus,3,3,0,Drunk Driving
+TA1386,7/31/2024,2:06,Jaipur,Rajasthan,Minor,Clear,Dry,Van,3,8,0,Overtaking
+TA1387,8/21/2023,18:53,Bhubaneswar,Odisha,Minor,Fog,Under Construction,Bus,4,3,0,Overtaking
+TA1388,3/22/2023,13:28,Lucknow,Uttar Pradesh,Severe,Clear,Under Construction,Truck,2,1,0,Drunk Driving
+TA1389,6/27/2023,5:42,Visakhapatnam,Andhra Pradesh,Fatal,Cloudy,Wet,Car,4,1,2,Overtaking
+TA1390,10/4/2024,5:02,Kolkata,West Bengal,Severe,Rain,Poor,Van,1,1,0,Overtaking
+TA1391,2/11/2024,18:50,Patna,Bihar,Minor,Rain,Under Construction,Bus,1,8,0,Drunk Driving
+TA1392,4/26/2023,14:08,Bhopal,Madhya Pradesh,Minor,Overcast,Under Construction,Truck,1,1,0,Signal Violation
+TA1393,10/20/2023,18:16,Mumbai,Maharashtra,Severe,Fog,Poor,Bus,4,7,0,Speeding
+TA1394,10/10/2023,13:45,Pune,Maharashtra,Minor,Overcast,Potholes,Car,4,5,0,Weather
+TA1395,2/20/2023,16:13,Ahmedabad,Gujarat,Severe,Rain,Dry,Auto Rickshaw,3,4,0,Poor Road Condition
+TA1396,12/13/2024,23:22,Coimbatore,Tamil Nadu,Minor,Cloudy,Wet,Auto Rickshaw,4,5,0,Poor Road Condition
+TA1397,9/11/2024,22:02,Bhopal,Madhya Pradesh,Minor,Fog,Wet,SUV,4,7,0,Drunk Driving
+TA1398,1/18/2024,1:55,Kochi,Kerala,Moderate,Cloudy,Dry,Auto Rickshaw,4,2,0,Drunk Driving
+TA1399,8/5/2024,0:59,Kochi,Kerala,Minor,Cloudy,Dry,Motorcycle,1,7,0,Speeding
+TA1400,12/22/2024,6:47,Nagpur,Maharashtra,Minor,Fog,Under Construction,Bus,1,0,0,Distracted Driving
+TA1401,5/15/2024,20:16,Nagpur,Maharashtra,Minor,Fog,Under Construction,Truck,3,5,0,Distracted Driving
+TA1402,12/6/2024,3:05,Jaipur,Rajasthan,Minor,Fog,Dry,Motorcycle,2,3,0,Weather
+TA1403,11/24/2024,7:03,Ahmedabad,Gujarat,Minor,Fog,Under Construction,Car,1,7,0,Distracted Driving
+TA1404,9/7/2024,0:17,Pune,Maharashtra,Minor,Overcast,Poor,Van,3,6,0,Overtaking
+TA1405,4/15/2024,8:36,Nagpur,Maharashtra,Minor,Rain,Under Construction,SUV,4,1,0,Speeding
+TA1406,11/9/2024,12:46,Kochi,Kerala,Moderate,Overcast,Under Construction,Auto Rickshaw,3,1,0,Overtaking
+TA1407,12/11/2023,9:26,Chennai,Tamil Nadu,Moderate,Rain,Poor,Van,3,3,0,Distracted Driving
+TA1408,9/4/2023,1:56,Kochi,Kerala,Severe,Overcast,Potholes,Van,3,2,0,Weather
+TA1409,11/2/2024,16:58,Hyderabad,Telangana,Fatal,Rain,Potholes,Bus,4,0,2,Weather
+TA1410,7/14/2023,11:42,Bhubaneswar,Odisha,Moderate,Cloudy,Under Construction,Van,4,5,0,Signal Violation
+TA1411,6/24/2023,22:26,Lucknow,Uttar Pradesh,Severe,Cloudy,Poor,Car,4,2,0,Weather
+TA1412,7/26/2024,6:14,Jaipur,Rajasthan,Severe,Rain,Dry,Motorcycle,3,3,0,Weather
+TA1413,3/6/2024,11:18,Lucknow,Uttar Pradesh,Minor,Overcast,Poor,Bus,1,7,0,Speeding
+TA1414,8/17/2024,21:11,Bhubaneswar,Odisha,Minor,Cloudy,Under Construction,Car,4,8,0,Poor Road Condition
+TA1415,2/25/2023,5:08,Bhopal,Madhya Pradesh,Minor,Cloudy,Poor,Bus,4,2,0,Poor Road Condition
+TA1416,3/24/2023,16:38,Pune,Maharashtra,Minor,Cloudy,Poor,Van,1,0,0,Overtaking
+TA1417,8/3/2023,5:45,Jaipur,Rajasthan,Moderate,Cloudy,Potholes,SUV,1,2,0,Signal Violation
+TA1418,10/10/2024,14:39,Bhopal,Madhya Pradesh,Minor,Fog,Potholes,Car,1,8,0,Distracted Driving
+TA1419,1/15/2023,10:59,Nagpur,Maharashtra,Moderate,Overcast,Wet,Car,1,3,0,Distracted Driving
+TA1420,11/16/2023,4:24,Nagpur,Maharashtra,Minor,Overcast,Under Construction,Auto Rickshaw,2,1,0,Drunk Driving
+TA1421,11/2/2023,9:55,Bengaluru,Karnataka,Moderate,Overcast,Under Construction,Truck,3,6,0,Weather
+TA1422,12/17/2023,16:43,Delhi,Delhi,Minor,Cloudy,Wet,SUV,4,0,0,Distracted Driving
+TA1423,5/15/2023,7:12,Ahmedabad,Gujarat,Moderate,Overcast,Under Construction,Motorcycle,1,5,0,Weather
+TA1424,1/20/2024,21:51,Bengaluru,Karnataka,Minor,Overcast,Under Construction,Car,1,1,0,Weather
+TA1425,2/19/2023,23:32,Hyderabad,Telangana,Minor,Fog,Potholes,Car,3,7,0,Weather
+TA1426,7/30/2023,23:43,Delhi,Delhi,Moderate,Clear,Poor,Bus,1,8,0,Poor Road Condition
+TA1427,9/12/2024,23:55,Chandigarh,Chandigarh,Minor,Clear,Under Construction,Van,1,4,0,Speeding
+TA1428,5/24/2024,6:46,Mumbai,Maharashtra,Moderate,Rain,Under Construction,Motorcycle,3,6,0,Poor Road Condition
+TA1429,2/10/2023,18:42,Pune,Maharashtra,Moderate,Cloudy,Potholes,Auto Rickshaw,2,0,0,Speeding
+TA1430,4/24/2023,19:35,Chennai,Tamil Nadu,Moderate,Cloudy,Dry,SUV,1,1,0,Poor Road Condition
+TA1431,4/12/2024,10:06,Ahmedabad,Gujarat,Minor,Clear,Dry,SUV,2,0,0,Drunk Driving
+TA1432,1/4/2024,23:06,Lucknow,Uttar Pradesh,Minor,Clear,Dry,SUV,1,0,0,Drunk Driving
+TA1433,11/10/2024,22:05,Delhi,Delhi,Minor,Rain,Potholes,Truck,3,1,0,Poor Road Condition
+TA1434,7/7/2023,3:53,Surat,Gujarat,Minor,Fog,Poor,SUV,4,7,0,Drunk Driving
+TA1435,10/26/2024,5:41,Bhopal,Madhya Pradesh,Minor,Clear,Wet,Car,4,7,0,Drunk Driving
+TA1436,11/25/2024,14:57,Bhubaneswar,Odisha,Minor,Fog,Poor,Truck,1,2,0,Overtaking
+TA1437,4/26/2023,14:02,Coimbatore,Tamil Nadu,Minor,Clear,Poor,Van,3,0,0,Weather
+TA1438,8/13/2024,19:17,Kochi,Kerala,Minor,Rain,Under Construction,Truck,1,6,0,Weather
+TA1439,5/8/2024,11:48,Ahmedabad,Gujarat,Moderate,Fog,Wet,SUV,1,0,0,Weather
+TA1440,6/1/2024,16:01,Pune,Maharashtra,Severe,Cloudy,Dry,SUV,4,5,0,Distracted Driving
+TA1441,10/12/2023,1:43,Surat,Gujarat,Moderate,Overcast,Potholes,Bus,2,1,0,Overtaking
+TA1442,8/9/2024,15:17,Visakhapatnam,Andhra Pradesh,Minor,Fog,Potholes,Auto Rickshaw,1,7,0,Weather
+TA1443,4/16/2023,13:46,Hyderabad,Telangana,Minor,Overcast,Under Construction,Car,1,4,0,Signal Violation
+TA1444,7/31/2023,22:20,Patna,Bihar,Moderate,Rain,Poor,SUV,1,3,0,Drunk Driving
+TA1445,12/6/2023,19:07,Visakhapatnam,Andhra Pradesh,Moderate,Overcast,Potholes,Van,3,7,0,Speeding
+TA1446,11/5/2024,7:34,Mumbai,Maharashtra,Minor,Rain,Poor,Truck,3,1,0,Speeding
+TA1447,5/19/2024,4:47,Pune,Maharashtra,Severe,Fog,Dry,Auto Rickshaw,2,3,0,Speeding
+TA1448,8/9/2023,15:36,Indore,Madhya Pradesh,Severe,Cloudy,Poor,Car,4,0,0,Weather
+TA1449,5/7/2023,15:22,Bhubaneswar,Odisha,Moderate,Overcast,Under Construction,Motorcycle,4,0,0,Signal Violation
+TA1450,7/20/2024,14:46,Bengaluru,Karnataka,Severe,Fog,Under Construction,SUV,2,2,0,Weather
+TA1451,4/17/2023,13:13,Delhi,Delhi,Moderate,Overcast,Poor,Truck,4,6,0,Signal Violation
+TA1452,10/8/2023,13:34,Ahmedabad,Gujarat,Fatal,Rain,Potholes,SUV,2,2,1,Signal Violation
+TA1453,11/3/2023,23:56,Kochi,Kerala,Moderate,Rain,Under Construction,Van,2,3,0,Distracted Driving
+TA1454,10/25/2023,23:26,Chandigarh,Chandigarh,Minor,Cloudy,Wet,Truck,3,1,0,Drunk Driving
+TA1455,7/29/2024,16:23,Nagpur,Maharashtra,Moderate,Fog,Under Construction,Auto Rickshaw,4,0,0,Signal Violation
+TA1456,1/26/2023,13:00,Mumbai,Maharashtra,Minor,Clear,Wet,Auto Rickshaw,2,4,0,Weather
+TA1457,5/30/2023,2:07,Jaipur,Rajasthan,Moderate,Rain,Wet,SUV,1,5,0,Drunk Driving
+TA1458,4/15/2023,21:01,Visakhapatnam,Andhra Pradesh,Severe,Overcast,Wet,Van,4,3,0,Signal Violation
+TA1459,12/10/2024,22:40,Lucknow,Uttar Pradesh,Minor,Fog,Potholes,Bus,3,8,0,Speeding
+TA1460,9/15/2023,6:55,Hyderabad,Telangana,Moderate,Fog,Wet,Van,3,8,0,Weather
+TA1461,7/21/2023,6:36,Chandigarh,Chandigarh,Minor,Cloudy,Dry,Motorcycle,2,8,0,Speeding
+TA1462,2/11/2023,14:37,Indore,Madhya Pradesh,Minor,Rain,Wet,Motorcycle,3,0,0,Poor Road Condition
+TA1463,12/27/2024,5:17,Visakhapatnam,Andhra Pradesh,Minor,Rain,Under Construction,Car,3,7,0,Drunk Driving
+TA1464,7/17/2024,12:13,Bhubaneswar,Odisha,Minor,Rain,Under Construction,Motorcycle,2,8,0,Speeding
+TA1465,6/13/2023,14:11,Kochi,Kerala,Moderate,Fog,Dry,Auto Rickshaw,2,3,0,Weather
+TA1466,12/6/2023,12:18,Surat,Gujarat,Minor,Overcast,Under Construction,Bus,1,1,0,Weather
+TA1467,4/1/2024,8:12,Nagpur,Maharashtra,Severe,Overcast,Under Construction,Motorcycle,1,5,0,Overtaking
+TA1468,1/31/2024,8:45,Mumbai,Maharashtra,Moderate,Rain,Dry,Truck,3,8,0,Drunk Driving
+TA1469,4/1/2024,16:36,Kochi,Kerala,Minor,Cloudy,Poor,Truck,1,1,0,Distracted Driving
+TA1470,6/30/2024,0:15,Patna,Bihar,Moderate,Cloudy,Wet,SUV,4,1,0,Distracted Driving
+TA1471,12/20/2024,14:51,Patna,Bihar,Moderate,Clear,Wet,Car,4,5,0,Speeding
+TA1472,3/17/2023,1:51,Chennai,Tamil Nadu,Minor,Rain,Under Construction,Car,2,4,0,Overtaking
+TA1473,4/6/2024,21:30,Indore,Madhya Pradesh,Minor,Rain,Dry,Bus,1,8,0,Speeding
+TA1474,3/6/2023,19:59,Chandigarh,Chandigarh,Minor,Clear,Poor,Truck,1,4,0,Drunk Driving
+TA1475,9/13/2024,2:57,Lucknow,Uttar Pradesh,Minor,Fog,Potholes,Bus,1,7,0,Distracted Driving
+TA1476,8/14/2023,4:39,Patna,Bihar,Moderate,Overcast,Poor,Van,2,4,0,Weather
+TA1477,1/12/2023,18:53,Nagpur,Maharashtra,Severe,Cloudy,Dry,Car,1,6,0,Signal Violation
+TA1478,3/29/2023,10:24,Patna,Bihar,Minor,Rain,Wet,Bus,2,2,0,Distracted Driving
+TA1479,9/23/2024,8:37,Ahmedabad,Gujarat,Minor,Cloudy,Under Construction,SUV,1,8,0,Overtaking
+TA1480,3/16/2023,9:55,Patna,Bihar,Moderate,Rain,Dry,Motorcycle,4,5,0,Poor Road Condition
+TA1481,11/18/2024,22:22,Delhi,Delhi,Minor,Rain,Under Construction,Car,2,5,0,Overtaking
+TA1482,12/3/2023,21:02,Visakhapatnam,Andhra Pradesh,Moderate,Overcast,Wet,Truck,3,5,0,Overtaking
+TA1483,1/5/2023,10:41,Pune,Maharashtra,Minor,Cloudy,Potholes,Auto Rickshaw,3,2,0,Weather
+TA1484,5/6/2024,15:47,Surat,Gujarat,Minor,Rain,Potholes,Truck,1,2,0,Weather
+TA1485,3/25/2023,9:34,Chandigarh,Chandigarh,Severe,Cloudy,Under Construction,Motorcycle,3,1,0,Weather
+TA1486,1/20/2023,17:18,Chennai,Tamil Nadu,Moderate,Overcast,Under Construction,Bus,2,0,0,Signal Violation
+TA1487,7/10/2024,18:25,Jaipur,Rajasthan,Moderate,Cloudy,Poor,Bus,2,4,0,Distracted Driving
+TA1488,5/28/2024,17:25,Visakhapatnam,Andhra Pradesh,Minor,Rain,Under Construction,Car,2,2,0,Drunk Driving
+TA1489,5/24/2023,15:13,Kochi,Kerala,Minor,Overcast,Under Construction,Van,2,7,0,Poor Road Condition
+TA1490,8/13/2023,16:38,Bengaluru,Karnataka,Minor,Rain,Poor,Motorcycle,1,3,0,Signal Violation
+TA1491,2/2/2024,16:01,Nagpur,Maharashtra,Severe,Clear,Dry,Van,3,1,0,Weather
+TA1492,10/10/2024,9:20,Kochi,Kerala,Severe,Rain,Under Construction,Truck,2,6,0,Weather
+TA1493,1/10/2024,20:03,Indore,Madhya Pradesh,Moderate,Clear,Under Construction,Auto Rickshaw,4,3,0,Signal Violation
+TA1494,12/28/2023,11:46,Indore,Madhya Pradesh,Moderate,Fog,Under Construction,Car,2,7,0,Distracted Driving
+TA1495,3/20/2023,17:33,Ahmedabad,Gujarat,Moderate,Cloudy,Wet,Motorcycle,2,5,0,Signal Violation
+TA1496,11/7/2024,7:51,Mumbai,Maharashtra,Minor,Rain,Dry,Bus,4,7,0,Distracted Driving
+TA1497,6/15/2023,22:05,Bhubaneswar,Odisha,Severe,Clear,Wet,Car,2,2,0,Distracted Driving
+TA1498,2/10/2023,19:32,Kochi,Kerala,Minor,Cloudy,Poor,Motorcycle,4,0,0,Weather
+TA1499,3/29/2023,7:23,Lucknow,Uttar Pradesh,Minor,Fog,Potholes,Motorcycle,2,6,0,Signal Violation
+TA1500,8/19/2024,6:12,Delhi,Delhi,Moderate,Overcast,Poor,Motorcycle,3,7,0,Signal Violation
