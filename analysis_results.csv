@@ -1,0 +1,71 @@
+section,metric,category,count,percentage
+overall,total_accidents,All,500,100.0
+overall,total_vehicles_involved,All,1264,
+overall,total_injuries,All,2031,
+overall,total_fatalities,All,20,
+overall,avg_vehicles_per_accident,All,2.528,
+overall,avg_injuries_per_accident,All,4.062,
+overall,avg_fatalities_per_accident,All,0.04,
+year,accidents,2023,250,50.0
+year,accidents,2024,250,50.0
+month,accidents,January,46,9.2
+month,accidents,February,35,7.0
+month,accidents,March,45,9.0
+month,accidents,April,47,9.4
+month,accidents,May,46,9.2
+month,accidents,June,29,5.8
+month,accidents,July,50,10.0
+month,accidents,August,36,7.2
+month,accidents,September,36,7.2
+month,accidents,October,43,8.6
+month,accidents,November,42,8.4
+month,accidents,December,45,9.0
+time_block,accidents,00:00-05:59,137,27.4
+time_block,accidents,06:00-11:59,127,25.4
+time_block,accidents,12:00-17:59,112,22.4
+time_block,accidents,18:00-23:59,124,24.8
+weekday,accidents,Monday,76,15.2
+weekday,accidents,Tuesday,59,11.8
+weekday,accidents,Wednesday,72,14.4
+weekday,accidents,Thursday,70,14.0
+weekday,accidents,Friday,78,15.6
+weekday,accidents,Saturday,72,14.4
+weekday,accidents,Sunday,73,14.6
+severity,accidents,Minor,244,48.8
+severity,accidents,Moderate,174,34.8
+severity,accidents,Severe,65,13.0
+severity,accidents,Fatal,17,3.4
+city,accidents,Delhi,36,7.2
+city,accidents,Bhopal,33,6.6
+city,accidents,Visakhapatnam,31,6.2
+city,accidents,Kochi,31,6.2
+city,accidents,Indore,31,6.2
+city,accidents,Patna,30,6.0
+city,accidents,Jaipur,27,5.4
+city,accidents,Chennai,26,5.2
+city,accidents,Pune,25,5.0
+city,accidents,Lucknow,25,5.0
+weather,accidents,Rain,110,22.0
+weather,accidents,Overcast,109,21.8
+weather,accidents,Cloudy,97,19.4
+weather,accidents,Clear,92,18.4
+weather,accidents,Fog,92,18.4
+road,accidents,Poor,108,21.6
+road,accidents,Under Construction,104,20.8
+road,accidents,Dry,101,20.2
+road,accidents,Potholes,96,19.2
+road,accidents,Wet,91,18.2
+vehicle,accidents,Bus,80,16.0
+vehicle,accidents,Car,77,15.4
+vehicle,accidents,Van,74,14.8
+vehicle,accidents,Truck,74,14.8
+vehicle,accidents,Auto Rickshaw,67,13.4
+vehicle,accidents,SUV,64,12.8
+vehicle,accidents,Motorcycle,64,12.8
+cause,accidents,Speeding,79,15.8
+cause,accidents,Weather,77,15.4
+cause,accidents,Drunk Driving,75,15.0
+cause,accidents,Distracted Driving,73,14.6
+cause,accidents,Poor Road Condition,72,14.4
+cause,accidents,Overtaking,67,13.4
+cause,accidents,Signal Violation,57,11.4
