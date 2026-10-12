@@ -1,267 +1,109 @@
 # 🚦 Traffic Accidents Analysis
 
+**A Data Analytics and Visualization Project for Safer Roads**
+
 ## 📌 Project Overview
 
-**Traffic Accidents Analysis** is a Data Analytics and Visualization project that analyzes traffic accident data to identify important patterns, trends, and factors associated with road accidents.
+Traffic Accidents Analysis is a Data Analytics and Visualization (DAV) semester project that analyzes traffic accident data to identify patterns, trends, and factors associated with road accidents.
 
-The project follows a structured data analytics workflow starting from raw data collection and data cleaning, followed by exploratory data analysis, visualization, statistical analysis, and interpretation of results.
-
-The main objective is to transform raw traffic accident data into meaningful insights that can help understand accident patterns and support better road-safety decision making.
-
----
+The project uses data cleaning, exploratory data analysis (EDA), and visualization to transform raw data into meaningful insights that support road-safety decision-making.
 
 ## 🎯 Problem Statement
 
-Road traffic accidents are a major public safety concern. Large amounts of accident data are available, but raw data alone is difficult to interpret.
-
-This project aims to analyze traffic accident records and identify patterns related to factors such as:
-
-- Time and date of accidents
-- Location
-- Weather conditions
-- Road conditions
-- Accident causes
-- Accident severity
-- Number of vehicles involved
-- Casualties
-- Other relevant accident-related factors
-
-The analysis will help identify patterns and factors that may contribute to traffic accidents.
-
----
+To analyze traffic accident data and identify patterns, trends, and factors contributing to road accidents.
 
 ## 🎯 Objectives
 
-The major objectives of this project are:
+- Clean and preprocess traffic accident data.
+- Analyze accident trends and patterns.
+- Identify accident-prone locations and high-risk periods.
+- Explore relationships between accident-related factors.
+- Create meaningful charts and visualizations.
+- Present insights that can help improve road safety.
 
-1. Collect and understand traffic accident data.
-2. Clean and preprocess the raw dataset.
-3. Handle missing, duplicate, inconsistent, and invalid data.
-4. Perform exploratory data analysis (EDA).
-5. Identify important accident patterns and trends.
-6. Create meaningful visualizations.
-7. Analyze relationships between accident-related variables.
-8. Extract useful insights from the data.
-9. Present the findings in a clear and understandable manner.
-10. Maintain the complete project workflow using GitHub.
+## 👥 Target Users
 
----
+- Traffic authorities and police
+- Government agencies
+- Road safety planners
+- Researchers and students
 
 ## 📊 Dataset
 
-The project uses a traffic accident dataset containing accident-related records and attributes.
+The project uses traffic accident data for analysis and visualization.
 
-The raw dataset is stored in:
-
-```text
-traffic_accidents_raw.csv
-```
-
-A detailed description of the dataset attributes is available in:
-
-```text
-data_dictionary.xlsx
-```
-
-Information about the data sources is documented in:
-
-```text
-data_sources.md
-```
-
-### Dataset Information
-
-The dataset contains information that can be used to analyze different aspects of traffic accidents, including accident characteristics, environmental conditions, location, time, and other relevant attributes.
-
-The exact meaning and description of each column can be found in the **Data Dictionary**.
-
----
+Supporting dataset documentation and data-source information are maintained in the repository. Refer to the `data/` and `docs/` folders for the available files.
 
 ## 🔄 Project Workflow
 
-The project follows the following data analytics workflow:
-
-```text
-Raw Data
-   ↓
-Data Understanding
-   ↓
-Data Cleaning & Preprocessing
-   ↓
-Exploratory Data Analysis (EDA)
-   ↓
-Data Visualization
-   ↓
-Statistical Analysis
-   ↓
-Pattern & Trend Identification
-   ↓
-Insights & Interpretation
-   ↓
-Final Results
-```
-
----
-
-## 🧹 Data Cleaning
-
-The raw dataset is first inspected and cleaned before performing analysis.
-
-The cleaning process includes:
-
-- Checking missing values
-- Detecting duplicate records
-- Identifying invalid values
-- Correcting inconsistent data
-- Checking data types
-- Handling missing or inappropriate values
-- Removing unnecessary data where required
-- Preparing the dataset for further analysis
-
-The cleaned dataset will be used for subsequent analysis and visualization.
-
----
-
-## 📈 Exploratory Data Analysis
-
-Exploratory Data Analysis will be performed to understand the characteristics and distribution of the accident data.
-
-The analysis will investigate questions such as:
-
-- When do most accidents occur?
-- Which locations have more accidents?
-- Which weather conditions are associated with accidents?
-- Which causes are most frequently reported?
-- What is the distribution of accident severity?
-- How do accidents vary over time?
-- Are there relationships between accident-related variables?
-- Which factors appear to be associated with more severe accidents?
-
----
-
-## 📊 Data Visualization
-
-Different visualization techniques will be used to communicate the results effectively.
-
-Possible visualizations include:
-
-- Bar charts
-- Line charts
-- Histograms
-- Box plots
-- Scatter plots
-- Heatmaps
-- Pie charts
-- Geographic/location-based visualizations
-
-The choice of visualization will depend on the type of variable and analytical question being investigated.
-
----
+1. Data collection and understanding
+2. Data cleaning and preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Statistical analysis
+5. Data visualization
+6. Pattern and trend identification
+7. Insights and interpretation
+8. Dashboard development and presentation
 
 ## 🛠️ Technologies Used
 
-The project uses data analytics and visualization technologies such as:
-
-| Category | Technology |
-|---|---|
-| Programming Language | Python |
-| Data Analysis | Pandas, NumPy |
-| Visualization | Matplotlib, Seaborn |
-| Development Environment | Jupyter Notebook / VS Code |
-| Version Control | Git |
-| Repository | GitHub |
-| Dataset Format | CSV |
-| Documentation | Excel / Markdown |
-
-Additional libraries may be added as the project progresses.
-
----
+- **Python** — data analysis
+- **Pandas** — data manipulation and cleaning
+- **NumPy** — numerical operations
+- **Matplotlib and Seaborn** — data visualization
+- **Jupyter Notebook / VS Code** — development environment
+- **Git and GitHub** — version control and collaboration
 
 ## 📁 Repository Structure
 
 ```text
 TrafficAccidentsAnalysis/
 │
-├── traffic_accidents_raw.csv
+├── data/         # Dataset and related data files
+├── docs/         # Project and dataset documentation
+├── notebooks/    # Data analysis notebooks
+├── proposal/     # Project proposal documents
+├── results/      # Analysis outputs and results
+├── scripts/      # Python scripts
 │
-├── data_dictionary.xlsx
-│
-├── data_sources.md
-│
-├── DAV.PROJECT.PROPOSAL.GIT (1).pdf
-│
-├── DAV.PROJECT.PROPOSAL.GIT.docx
-│
-├── README.md
-│
-└── LICENSE
+├── README.md     # Project overview and documentation
+└── LICENSE       # Project license
 ```
 
-As the project progresses, additional folders and files for data cleaning, analysis, visualization, and results will be added.
+## 📈 Expected Dashboard
 
----
+The proposed traffic accident dashboard will present important accident statistics and visual insights in one place.
 
-## 👥 Project Team
+Planned features include:
 
-This is a group semester project developed as part of the **Data Analytics and Visualization (DAV)** course.
+- **Accident Overview:** Total accidents, casualties, vehicles involved, and fatal accidents, where supported by the dataset.
+- **Accident Trends:** Time-based and monthly accident patterns.
+- **Accident Hotspots:** Visualization of accident-prone locations, if geographic data is available.
+- **Cause Analysis:** Comparison of recorded accident causes.
+- **Weather Analysis:** Exploration of accidents across weather conditions.
+- **Severity Analysis:** Distribution of accident severity.
+- **Key Insights:** Important patterns identified through the analysis.
 
-The project work is divided among team members using GitHub Issues so that different stages of the project can be developed and tracked systematically.
+*Dashboard features will depend on the available dataset fields and completed analysis.*
 
----
+## 📌 Project Status
 
-## 🔀 Project Development Using GitHub
+The repository is organized into separate folders for data, documentation, notebooks, scripts, the proposal, and results.
 
-GitHub is used to manage the project development process.
-
-The project is divided into multiple issues, with each issue representing a specific part of the data analytics workflow.
-
-This approach helps the team:
-
-- Divide the workload
-- Track individual tasks
-- Maintain project history
-- Collaborate using Git
-- Review completed work
-- Organize project deliverables
-
----
-
-## 📌 Current Project Status
-
-The repository currently contains the initial project documentation, raw dataset, data dictionary, and data-source documentation.
-
-The next stages of the project include data cleaning, exploratory analysis, visualization, and interpretation.
-
-Project progress will be updated as each GitHub issue is completed.
-
----
+The README and project documentation will be updated as the team completes its assigned tasks and adds verified analysis outputs.
 
 ## 🚀 Future Scope
 
-The project can be extended by:
+- Develop an interactive traffic accident dashboard.
+- Improve accident hotspot visualization.
+- Explore statistical relationships between accident factors.
+- Incorporate additional traffic accident datasets.
+- Investigate predictive analytics where suitable data is available.
 
-- Adding more recent accident datasets
-- Performing advanced statistical analysis
-- Developing predictive models
-- Identifying accident hotspots
-- Creating interactive dashboards
-- Integrating geographic visualization
-- Using real-time traffic and weather data
-- Developing a web-based analytics dashboard
+## 👥 Project Development
 
----
-
-## 📚 Documentation
-
-The repository contains the following supporting documents:
-
-- **Project Proposal** — defines the overall project requirements and objectives.
-- **Data Dictionary** — explains the variables and attributes in the dataset.
-- **Data Sources** — documents the sources used for the project.
-- **README** — provides an overview of the project and repository.
-
----
+This project is developed collaboratively as part of the Data Analytics and Visualization semester course. GitHub Issues are used to divide tasks, track progress, and organize project deliverables.
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0. See the `LICENSE` file for more information.
+This project is licensed under the Apache License 2.0. Refer to the `LICENSE` file for details.
